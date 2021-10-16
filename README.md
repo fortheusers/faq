@@ -40,7 +40,7 @@ _Last Modified: 2020-08-06_
 ## About Us
 For the Users is a group dedicated to making homebrew easier to run, and contributing to some open-source projects. We run the hb-appstore project, a GUI for downloading/managing homebrew apps for video game consoles. We also host a DNS service for accessing the Internet on the Nintendo Switch.
 
-Our website is [fortheusers.org](https://fortheusers.org), and we have an [OpenCollective page](https://opencollective.com/search?q=fortheusers) for accepting donations if you feel inclined! We also have a [Twitter](https://twitter.com/wiiubru) where we sparsely post updates.
+Our website is [fortheusers.org](https://fortheusers.org), and we have an [OpenCollective page](https://opencollective.com/fortheusers) for accepting donations if you feel inclined! We also have a [Twitter](https://twitter.com/wiiubru) where we sparsely post updates.
 
 ### Questions
 
